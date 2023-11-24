@@ -23,13 +23,13 @@ To run this project locally, follow these steps:
 1. Clone this repository.
 ```
 
-git clone https://github.com/your-username/github-users-search.git
+git clone https://github.com/Perin-Mangukiya/Github_Uers_Search.git
 
 ```
 3. Install dependencies.
 ```
 
-cd Github-Users-Search
+cd Github_Users_Search
 npm install
 
  ```
